@@ -1,0 +1,4 @@
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverLibrary\bin\Debug\MarsRoverLibrary.dll
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverLibrary\bin\Debug\MarsRoverLibrary.pdb
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverLibrary\obj\Debug\MarsRoverLibrary.dll
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverLibrary\obj\Debug\MarsRoverLibrary.pdb

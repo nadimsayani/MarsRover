@@ -1,0 +1,11 @@
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverTest\bin\Debug\MarsRoverTest.dll
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverTest\bin\Debug\MarsRoverTest.pdb
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverTest\bin\Debug\MarsRoverLibrary.dll
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverTest\bin\Debug\Moq.dll
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverTest\bin\Debug\nunit.framework.dll
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverTest\bin\Debug\MarsRoverLibrary.pdb
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverTest\bin\Debug\Moq.xml
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverTest\bin\Debug\nunit.framework.xml
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverTest\obj\Debug\MarsRover.Test.csprojResolveAssemblyReference.cache
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverTest\obj\Debug\MarsRoverTest.dll
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverTest\obj\Debug\MarsRoverTest.pdb

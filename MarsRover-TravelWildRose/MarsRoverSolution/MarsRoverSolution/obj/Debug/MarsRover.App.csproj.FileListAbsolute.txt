@@ -1,0 +1,11 @@
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverSolution\bin\Debug\MarsRoverSolution.exe.config
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverSolution\bin\Debug\MarsRoverSolution.exe
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverSolution\bin\Debug\MarsRoverSolution.pdb
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverSolution\bin\Debug\MarsRoverLibrary.dll
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverSolution\bin\Debug\MarsRoverLibrary.pdb
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverSolution\obj\Debug\MarsRover.App.csprojResolveAssemblyReference.cache
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverSolution\obj\Debug\MarsRoverSolution.exe
+C:\Git\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverSolution\obj\Debug\MarsRoverSolution.pdb
+C:\Dev\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverSolution\bin\Debug\MarsRoverSolution.exe.config
+C:\Dev\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverSolution\obj\Debug\MarsRoverSolution.exe
+C:\Dev\MarsRover-TravelWildRose\MarsRoverSolution\MarsRoverSolution\obj\Debug\MarsRoverSolution.pdb
